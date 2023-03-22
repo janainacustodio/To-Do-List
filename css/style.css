@@ -4,11 +4,15 @@
     margin: 0;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 
     Geneva, Verdana, sans-serif;
-    color: black;
+    color:rgb(19, 95, 70);
     box-sizing: border-box;
 }
+h1{
+    font-family: 'Alkatra', cursive;
+
+}
 body{
-    background-image: url("../img/paisagem.jpg");
+    background-color:rgb(79, 214, 169);
     background-position: center;
     background-size: cover;
 }
